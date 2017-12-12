@@ -1,0 +1,1 @@
+It is a sample of RESTful and Soap webserive using spring framework
